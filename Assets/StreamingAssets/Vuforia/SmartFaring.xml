@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="chatgptimagenov1202510_34_48am" size="1.000000 1.000000" />
+    <ImageTarget name="leaf2" size="1.000000 1.000000" />
+    <ImageTarget name="leaf3" size="1.000000 1.000000" />
+    <ImageTarget name="leaf1" size="1.000000 1.000000" />
+    <ImageTarget name="whatsappimage2025-09-03at17" size="1.000000 1.000000" />
+    <ImageTarget name="polmanlogo1" size="1.000000 1.000000" />
+    <ImageTarget name="node_3" size="1.000000 1.000000" />
+    <ImageTarget name="node_2" size="1.000000 1.000000" />
+    <ImageTarget name="node_1" size="1.000000 1.000000" />
+    <ImageTarget name="polman" size="1.000000 0.453000" />
+    <ImageTarget name="vulnura" size="1.000000 0.988000" />
+    <ImageTarget name="kingdiamond" size="1.000000 1.412429" />
+    <ImageTarget name="jackclover" size="1.000000 1.404494" />
+    <ImageTarget name="kingclover" size="1.000000 1.417769" />
+    <ImageTarget name="whatsappimage2025-07-18at06" size="1.000000 1.056978" />
+  </Tracking>
+</QCARConfig>
